@@ -1,2 +1,2 @@
 # Machine-Learning
-一些机器学习算法python实现
+python手动实现机器学习算法
